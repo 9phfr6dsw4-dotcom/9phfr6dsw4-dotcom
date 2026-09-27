@@ -12,14 +12,14 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/9phfr6dsw4-dotcom/clipboard-shelf"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/clipboard-shelf/main/docs/images/clipboard-shelf-icon.png" width="96" alt="Clipboard Shelf icon"></a>
+      <a href="https://github.com/9phfr6dsw4-dotcom/clipboard-shelf"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/clipboard-shelf/HEAD/docs/images/clipboard-shelf-icon.png" width="96" alt="Clipboard Shelf icon"></a>
       <h3><a href="https://github.com/9phfr6dsw4-dotcom/clipboard-shelf">Clipboard Shelf</a></h3>
       <p>A quiet macOS menu-bar clipboard history with search, pins, and a pause switch.</p>
       <p><a href="https://github.com/9phfr6dsw4-dotcom/clipboard-shelf/releases/latest"><b>Download</b></a> · macOS 13+</p>
     </td>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/9phfr6dsw4-dotcom/quick-drop-zone"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/quick-drop-zone/main/docs/images/quick-drop-zone-icon.png" width="96" alt="Quick Drop Zone icon"></a>
+      <a href="https://github.com/9phfr6dsw4-dotcom/quick-drop-zone"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/quick-drop-zone/HEAD/docs/images/quick-drop-zone-icon.png" width="96" alt="Quick Drop Zone icon"></a>
       <h3><a href="https://github.com/9phfr6dsw4-dotcom/quick-drop-zone">Quick Drop Zone</a></h3>
       <p>A careful, local-first file organizer in the macOS menu bar.</p>
       <p><a href="https://github.com/9phfr6dsw4-dotcom/quick-drop-zone/releases/latest"><b>Download</b></a> · macOS 26+</p>
@@ -28,14 +28,14 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/9phfr6dsw4-dotcom/echoflow"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/echoflow/main/docs/images/echoflow-icon.png" width="96" alt="EchoFlow icon"></a>
+      <a href="https://github.com/9phfr6dsw4-dotcom/echoflow"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/echoflow/HEAD/docs/images/echoflow-icon.png" width="96" alt="EchoFlow icon"></a>
       <h3><a href="https://github.com/9phfr6dsw4-dotcom/echoflow">EchoFlow</a></h3>
       <p>Private, on-device dictation for macOS with Apple Speech, Parakeet v3, and Whisper.</p>
       <p><a href="https://github.com/9phfr6dsw4-dotcom/echoflow/releases/latest"><b>Download</b></a> · macOS 26+</p>
     </td>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/9phfr6dsw4-dotcom/captiongrab"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/captiongrab/main/docs/images/captiongrab-icon.png" width="96" alt="CaptionGrab icon"></a>
+      <a href="https://github.com/9phfr6dsw4-dotcom/captiongrab"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/captiongrab/HEAD/docs/images/captiongrab-icon.png" width="96" alt="CaptionGrab icon"></a>
       <h3><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab">CaptionGrab</a></h3>
       <p>Get English YouTube captions and save them as Markdown or Word.</p>
       <p><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab/releases/latest"><b>Download</b></a> · macOS 26+</p>
