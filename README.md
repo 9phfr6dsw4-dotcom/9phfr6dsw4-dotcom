@@ -2,7 +2,7 @@
 <p align="center"><img src="assets/banner.png" alt="Small tools for macOS" width="100%"></p>
 
 <p align="center">
-  Four focused, native Mac apps for captions, dictation, files, and clipboard history.<br>
+  Five focused, native Mac apps for captions, downloads, dictation, files, and clipboard history.<br>
   No accounts. No analytics. Your history and preferences stay on your Mac.
 </p>
 
@@ -39,6 +39,15 @@
       <h3><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab">CaptionGrab</a></h3>
       <p>Get English YouTube captions and save them as Markdown or Word.</p>
       <p><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab/releases/latest"><b>Download</b></a> · macOS 26+</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br>
+      <a href="https://github.com/9phfr6dsw4-dotcom/EchoFetch"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/EchoFetch/HEAD/docs/images/echofetch-icon.png" width="96" alt="EchoFetch icon"></a>
+      <h3><a href="https://github.com/9phfr6dsw4-dotcom/EchoFetch">EchoFetch</a></h3>
+      <p>Save videos and audio from YouTube and other sites, straight from a copied link.</p>
+      <p><a href="https://github.com/9phfr6dsw4-dotcom/EchoFetch/releases/latest"><b>Download</b></a> · macOS 26+</p>
     </td>
   </tr>
 </table>
