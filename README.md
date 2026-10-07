@@ -2,7 +2,7 @@
 <p align="center"><img src="assets/banner.png" alt="Small tools for macOS" width="100%"></p>
 
 <p align="center">
-  Five focused, native Mac apps for captions, downloads, dictation, files, and clipboard history.<br>
+  Five focused, native Mac apps for display brightness, downloads, dictation, files, and clipboard history.<br>
   No accounts. No analytics. Your history and preferences stay on your Mac.
 </p>
 
@@ -35,10 +35,10 @@
     </td>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/9phfr6dsw4-dotcom/captiongrab"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/captiongrab/HEAD/docs/images/captiongrab-icon.png" width="96" alt="CaptionGrab icon"></a>
-      <h3><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab">CaptionGrab</a></h3>
-      <p>Get English YouTube captions and save them as Markdown or Word.</p>
-      <p><a href="https://github.com/9phfr6dsw4-dotcom/captiongrab/releases/latest"><b>Download</b></a> · macOS 26+</p>
+      <a href="https://github.com/9phfr6dsw4-dotcom/Lumen"><img src="https://raw.githubusercontent.com/9phfr6dsw4-dotcom/Lumen/HEAD/docs/images/lumen-icon.png" width="96" alt="Lumen icon"></a>
+      <h3><a href="https://github.com/9phfr6dsw4-dotcom/Lumen">Lumen</a></h3>
+      <p>Brightness, contrast and volume for every display, from the menu bar or your keyboard.</p>
+      <p><a href="https://github.com/9phfr6dsw4-dotcom/Lumen/releases/latest"><b>Download</b></a> · macOS 26+</p>
     </td>
   </tr>
   <tr>
