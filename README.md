@@ -1,3 +1,5 @@
+![Apps by Jordan — Made for macOS. Native. Focused. Private.](assets/banner.png)
+
 <!-- Profile README for github.com/9phfr6dsw4-dotcom (repo: 9phfr6dsw4-dotcom/9phfr6dsw4-dotcom, file: README.md) -->
 <p align="center"><img src="assets/banner.png" alt="Small tools for macOS" width="100%"></p>
 
