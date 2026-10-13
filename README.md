@@ -1,7 +1,5 @@
-![Apps by Jordan — Made for macOS. Native. Focused. Private.](assets/banner.png)
-
 <!-- Profile README for github.com/9phfr6dsw4-dotcom (repo: 9phfr6dsw4-dotcom/9phfr6dsw4-dotcom, file: README.md) -->
-<p align="center"><img src="assets/banner.png" alt="Small tools for macOS" width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="Apps by Jordan — Made for macOS. Native. Focused. Private." width="100%"></p>
 
 <p align="center">
   Four focused, native Mac apps for downloads, dictation, budgeting, and display brightness.<br>
