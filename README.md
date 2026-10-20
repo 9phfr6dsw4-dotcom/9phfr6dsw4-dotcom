@@ -12,21 +12,6 @@
 
 <br>
 
-<h3>Preparing for launch</h3>
-
-<table width="100%">
-  <tr>
-    <td width="80" align="center" valign="middle"><img src="assets/scout-icon.png" width="64" alt="Scout icon"></td>
-    <td valign="middle"><strong>Scout</strong><br>Screen recording and simple video editing.</td>
-  </tr>
-  <tr>
-    <td width="80" align="center" valign="middle"><img src="assets/turbo-icon.png" width="64" alt="Turbo icon"></td>
-    <td valign="middle"><strong>Turbo</strong><br>On-device dictation and transcribing.</td>
-  </tr>
-</table>
-
-<br>
-
 <hr>
 
 <p align="center">Built for macOS · Designed with care · Made to be useful</p>
