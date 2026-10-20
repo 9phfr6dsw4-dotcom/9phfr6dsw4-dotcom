@@ -1,5 +1,5 @@
 <!-- Profile README for github.com/9phfr6dsw4-dotcom (repo: 9phfr6dsw4-dotcom/9phfr6dsw4-dotcom, file: README.md) -->
-<p align="center"><img src="assets/banner.png" alt="Apps by Jordan — Made for macOS. Native. Focused. Private." width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="By Echo App Studio — Made for macOS. Native. Focused. Private." width="100%"></p>
 
 <br>
 
